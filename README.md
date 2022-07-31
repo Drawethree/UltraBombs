@@ -24,4 +24,4 @@ to handle selling of broken blocks.
 * [Developer API](https://github.com/Drawethree/UltraBombsAPI)
 
 # Screenshots
-![Image1](https://imgur.com/VeSq3Ok.png)
+

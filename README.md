@@ -14,7 +14,7 @@ to handle selling of broken blocks.
 * [Home](https://github.com/Drawethree/UltraBombs/wiki)
 * [Features](https://github.com/Drawethree/UltraBombs/wiki/Features)
 * [Setup](https://github.com/Drawethree/UltraBombs/wiki/Setup)
-* [Commands & Permissions](https://github.com/Drawethree/UltraBoms/wiki/Commands-&-Permissions)
+* [Commands & Permissions](https://github.com/Drawethree/UltraBombs/wiki/Commands-&-Permissions)
 ### Default Files
 * [_config.yml_](https://github.com/Drawethree/UltraBombs/wiki/config.yml)
 

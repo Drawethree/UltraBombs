@@ -24,5 +24,5 @@ to handle selling of broken blocks.
 * [Developer API](https://github.com/Drawethree/UltraBombsAPI)
 
 # Media
-https://www.youtube.com/watch?v=mgBObzqNWeE&ab_channel=UltraBombs
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mgBObzqNWeE/0.jpg)]([https://www.youtube.com/watch?v=mgBObzqNWeE)](https://www.youtube.com/watch?v=mgBObzqNWeE&ab_channel=UltraBombs)
 
